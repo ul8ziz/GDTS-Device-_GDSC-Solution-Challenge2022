@@ -26,7 +26,7 @@ class HowToUseScreen extends StatelessWidget {
           Container(
               width: double.infinity,
               height: 1.0,
-              color: Colors.grey[300],),
+              color: Colors.grey[400],),
                 SizedBox(height: 10.0,),
 
                 Text(
@@ -44,11 +44,28 @@ class HowToUseScreen extends StatelessWidget {
                 Container(
                   width: double.infinity,
                   height: 1.0,
-                  color: Colors.grey[300],),
+                  color: Colors.grey[400],),
+                SizedBox(height: 10.0,),
+                Text(
+                  '2- Contact to the device through the Bluetooth from the home screen as in the picture below.',
+                  style:    TextStyle(
+                    fontSize: 15,
+                    //  fontWeight: FontWeight.bold,
+                    color: Colors.black,
+                  ),),
+                SizedBox(
+                  height: 10.0,
+                ),
+                Image.asset('assete/images/2step.jpg'),
                 SizedBox(height: 10.0,),
 
+                Container(
+                  width: double.infinity,
+                  height: 1.0,
+                  color: Colors.grey[400],),
+                SizedBox(height: 10.0,),
                 Text(
-                  '2- Put your finger in the designated place as in the picture.',
+                  '3- Put your finger in the designated place as in the picture.',
                   style:    TextStyle(
                     fontSize: 15,
                   //  fontWeight: FontWeight.bold,
@@ -58,30 +75,15 @@ class HowToUseScreen extends StatelessWidget {
                   height: 10.0,
                 ),
                 Image.asset('assete/images/2.jpg'),
-                Container(
-                  width: double.infinity,
-                  height: 1.0,
-                  color: Colors.grey[300],),
-                SizedBox(height: 10.0,),
-
-                Text(
-                  '3- Contact to the device through the Bluetooth from the home screen as in the picture below.',
-                  style:    TextStyle(
-                    fontSize: 15,
-                  //  fontWeight: FontWeight.bold,
-                    color: Colors.black,
-                  ),),
-                SizedBox(
-                  height: 10.0,
-                ),
-                Image.asset('assete/images/gdts.png'),
                 SizedBox(height: 10.0,),
 
                 Container(
                   width: double.infinity,
                   height: 1.0,
-                  color: Colors.grey[300],),
+                  color: Colors.grey[400],),
                 SizedBox(height: 10.0,),
+
+
 
                 Text(
                   '4- Press the check button to start scan ,\nafter five seconds, the result of the examination will appear,'
@@ -92,13 +94,41 @@ class HowToUseScreen extends StatelessWidget {
                     color: Colors.black,
                   ),),
                 SizedBox( height: 10.0,  ),
-                Image.asset('assete/images/gdts.png'),
+                Image.asset('assete/images/3step.jpg'),
+                SizedBox(height: 10.0,),
+
                 Container(
                   width: double.infinity,
                   height: 1.0,
-                  color: Colors.grey[300],),
+                  color: Colors.grey[400],),
                 SizedBox(height: 10.0,),
 
+                Text(
+                  '5- after five seconds, the result of the examination will appear,'
+                      'as well as your health condition.',
+                  style:    TextStyle(
+                    fontSize: 15,
+                    //  fontWeight: FontWeight.bold,
+                    color: Colors.black,
+                  ),),                SizedBox(height: 10.0,),
+
+                Image.asset('assete/images/step44.jpg'),
+                SizedBox(height: 10.0,),
+
+                Container(
+                  width: double.infinity,
+                  height: 1.0,
+                  color: Colors.grey[400],),
+                SizedBox(height: 10.0,),
+
+                Image.asset('assete/images/step444.jpg'),
+                SizedBox(height: 10.0,),
+
+                Container(
+                  width: double.infinity,
+                  height: 1.0,
+                  color: Colors.grey[400],),
+                SizedBox(height: 10.0,),
                 Text(
                   'Enjoy a new experience with us',
                   style:    TextStyle(
@@ -111,7 +141,7 @@ class HowToUseScreen extends StatelessWidget {
                 Container(
                   width: double.infinity,
                   height: 1.0,
-                  color: Colors.grey[300],),
+                  color: Colors.grey[400],),
               ]
           ),)
     );

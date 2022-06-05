@@ -1,5 +1,5 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.example.gdtsapp">
+    package="gdtsapp.appspot.com">
    <application
         android:label="GDTS"
         android:name="${applicationName}"

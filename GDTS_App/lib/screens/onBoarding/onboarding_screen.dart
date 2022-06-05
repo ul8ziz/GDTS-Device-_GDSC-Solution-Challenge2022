@@ -28,12 +28,12 @@ class _OnBoardingScreenState extends State<OnBoardingScreen> {
         body: 'welcome dear user You are now using measure sugar level application.   Follow the following guidelines. ',
         ),
     BoardingModel(
-        image: 'assete/images/',
+        image: 'assete/images/11.jpg',
         title: 'What the application does        ',
         body: 'The application measures blood sugar with a new technology through skin.'
     ),
     BoardingModel(
-        image: 'assete/images/',
+        image: 'assete/images/22.jpg',
         title: 'Use instructions                          ',
         body: 'To start the blood sugar test, follow the usage instructions.',)
   ];

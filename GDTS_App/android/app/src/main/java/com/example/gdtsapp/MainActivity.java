@@ -1,4 +1,4 @@
-package com.example.gdtsapp;
+package gdtsapp.appspot.com;
 
 import io.flutter.embedding.android.FlutterActivity;
 

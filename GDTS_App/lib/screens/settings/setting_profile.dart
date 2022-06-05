@@ -1,7 +1,9 @@
 
 import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
+import 'package:gdtsapp/screens/edit_profile/edit_profile_screen.dart';
 import 'package:gdtsapp/shared/bloc/gdts_bloc/gdts_cubit.dart';
+import 'package:gdtsapp/shared/components/component.dart';
 
 class SettingsProfile extends StatelessWidget {
   const SettingsProfile({Key key}) : super(key: key);
@@ -63,7 +65,7 @@ class SettingsProfile extends StatelessWidget {
                   ),
                   SizedBox(width: 10.0,),
                   OutlinedButton(onPressed: (){
-                    //navigateTo(context, EditProfile());
+                    navigateTo(context, EditProfile());
                   },child: Icon(Icons.edit_outlined,size: 16.0,),),
                 ],
               ),
