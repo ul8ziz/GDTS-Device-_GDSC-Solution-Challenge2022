@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "417627434496",
+    "project_id": "gdtsapp",
+    "storage_bucket": "gdtsapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:417627434496:android:9b5c3412171a6318d672e5",
+        "android_client_info": {
+          "package_name": "com.example.gdtsapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "417627434496-4g7u8u6s8cns6umien5lsbdrcg1rttl5.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.gdtsapp",
+            "certificate_hash": "8424b5b8dabf53cba467a143f12789f01da51736"
+          }
+        },
+        {
+          "client_id": "417627434496-aaic995ibqgigua6d4no4f259d94hft3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAy7sD6OtAhNFWlWPIOkGiJktPDR0yCfFk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "417627434496-aaic995ibqgigua6d4no4f259d94hft3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
