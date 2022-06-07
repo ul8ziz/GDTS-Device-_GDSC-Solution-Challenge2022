@@ -1,11 +1,11 @@
 # GDTS-Device_GDSC Solution Challenge 2022
 
-## GDTS..Glucose Detector through Skin Device and flutter app.
+## GDTS--Glucose Detector through Skin-Device and flutter app.
 
 GDTS solution: 
  It is a device that measures the level of sugar in the blood, where there is an infrared transmitter and receiver, the transmitter sends the rays that hit the glucose crystals in the blood and are reflected, and here comes the role of the receiving sensor where it receives the reflected signal, the signal is analyzed by the processor and then displays the final results in a screen The presentation also sends it via Bluetooth to the application to display it in the smartphone, instead of painful puzzles or costly slides.
  
- ## how to use the device follow the following instructions: 
+ ## how to use - following instructions: 
  
 1- We operate the device in this way. 
 2- We log in to the application. 
@@ -30,10 +30,10 @@ GDTS solution:
 
 ## About the Project
 
-This project is for the 2021 Google Solution Challenge, by Team bite from the DSC at Yemen ,Alrazi university.
+This project is for the 2022 Google Solution Challenge, by Team bite from the GDSC at Alrazi University,Yemen.
 
 https://dsc.community.dev/al-razi-university/
 
 https://www.facebook.com/dscalrazi.ye
 
-Find a video summary here https://www.youtube.com/watch?v=3RYQOgH1cE0
+summary video here https://www.youtube.com/watch?v=3RYQOgH1cE0
