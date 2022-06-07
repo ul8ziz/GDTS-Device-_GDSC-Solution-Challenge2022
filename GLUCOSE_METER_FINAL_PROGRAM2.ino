@@ -11,19 +11,22 @@ int stus=15;
 int en=14;
 // Set the LCD address to 0x27 for a 16 chars and 2 line display
 LiquidCrystal_I2C lcd(0x27, 2, 1, 0, 4, 5, 6, 7, 3, POSITIVE);
+
 void setup() {
-  pinMode(11,INPUT); 
+    
+  pinMode(11,INPUT) //Define Pins INPUT or OUt
   pinMode(stus,INPUT);
   pinMode(en,OUTPUT);
-  Serial1.begin(9600 );
-  //Serial.begin(9600 );
-  lcd.begin(16,2);//lcd.backlight();
-  lcd.print(" START TESTING");
+  
+  Serial1.begin(9600 ); //Connect To Bluetooth 
+  
+  lcd.begin(16,2);  // Initialize The LCD 
+  lcd.print(" START TESTING"); //Show In LCD 
   lcd.setCursor(0, 1);
   lcd.print("PUT YOUR FINGER");
   delay(2000);
   
-  Serial1.write("HI\n");
+  Serial1.write("HI\n");/*Sending Data To The                             Bluetooth Davies*/
   delay(1000);
   Serial1.write("PLS PUT YOUR FINGER\n");
   delay(200);
@@ -37,7 +40,7 @@ void loop() {
  
   start1:
   //lcd.print("start testing");    
- if (digitalRead(11)==HIGH || Serial1.read()=='1')
+ if (digitalRead(11)==HIGH || Serial1.read()=='1') // if The Button Pressed Or Bluetooth Received '1' Start Testing
  {
   x=0;
   calc=0;
