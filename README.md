@@ -8,12 +8,6 @@
 
 
 ![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="400" height="790">
-![sdssd](https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/2.jpg)
-![sdssd](https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/3.jpg)
-![sdssd](https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/4.jpg)
-![sdssd](https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/5.jpg)
-![sdssd](https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/6.jpg)
-![sdssd](https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/7.jpg)
-![sdssd](https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/8.jpg)
-![sdssd](https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/9.jpg)
-![sdssd](https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/10.jpg)
+![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="400" height="790">
+![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="400" height="790">
+![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="400" height="790">
