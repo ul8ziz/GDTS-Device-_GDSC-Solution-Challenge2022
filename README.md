@@ -16,6 +16,10 @@ GDTS solution:
 
 ## App Screens.
 
+<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/12.png" width="300" height="600">.
+
+## App Screens.
+
 <img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="200" height="400">.
 <img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/2.jpg" width="200" height="400">.
 <img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/3.jpg" width="200" height="400">
