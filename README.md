@@ -21,7 +21,7 @@ GDTS solution:
 
 ## Device Components:
 
-<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/12.png" width="600" height="600">.
+<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/12.png" width="700" height="600">.
 
 ## App Screens:
 
