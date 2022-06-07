@@ -7,7 +7,7 @@
  
 
 
-![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="400" height="790">
-![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="400" height="790">
-![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="400" height="790">
-![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="400" height="790">
+![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="250" height="500">
+![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="250" height="500">
+![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="250" height="500">
+![sdssd]<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/1.jpg" width="250" height="500">
