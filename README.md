@@ -1,4 +1,4 @@
-# GDTS-Device_GDSC Solution Challenge 2022
+# GDTS-GDSC Solution Challenge 2022
 
 ## GDTS--Glucose Detector through Skin-Device and flutter app.
 
