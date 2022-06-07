@@ -14,9 +14,9 @@ GDTS solution:
 5- We press the scan button and then wait 5 seconds for the scan process to finish. After that, the result will appear to us. If it is normal, it will show you a stable text,If it is not normal, it will show you unstable. 
 6- The application provides a record of the patient's examinations that he previously checked to follow up on the patient's condition.
 
-## App Screens.
+## Device Components.
 
-<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/12.png" width="300" height="600">.
+<img src="https://github.com/ul8ziz/GDTS-Device-_GDSC-Solution-Challenge2022/blob/main/Screenshots/12.png" width="600" height="600">.
 
 ## App Screens.
 
