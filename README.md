@@ -8,10 +8,15 @@ GDTS solution:
  ## how to use - following instructions: 
  
 1- We operate the device in this way. 
+
 2- We log in to the application. 
+
 3- We connect the application with the device via Bluetooth. 
+
 4- We put the finger in the place of the sensors as shown. 
+
 5- We press the scan button and then wait 5 seconds for the scan process to finish. After that, the result will appear to us. If it is normal, it will show you a stable text,If it is not normal, it will show you unstable. 
+
 6- The application provides a record of the patient's examinations that he previously checked to follow up on the patient's condition.
 
 ## Device Components.
