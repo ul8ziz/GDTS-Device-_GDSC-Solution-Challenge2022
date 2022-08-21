@@ -10,24 +10,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="42368ba8-b50c-4f3b-aa49-9d8500a83681" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/lib/screens/edit_profile/edit_profile_screen.dart" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/lib/screens/edit_profile_screen/edit_profile_screen.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/build.gradle" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/android/app/google-services.json" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/google-services.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/debug/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/main/java/com/example/gdtsapp/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/main/java/com/example/gdtsapp/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/android/app/src/profile/AndroidManifest.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" beforeDir="false" afterPath="$PROJECT_DIR$/ios/Runner.xcodeproj/project.pbxproj" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/checkups/checkupsscreen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/checkups/checkupsscreen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/home/home_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/home/home_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/howtouse/howtouse_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/howtouse/howtouse_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/onBoarding/onboarding_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/onBoarding/onboarding_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/register/register_screen.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/register/register_screen.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/screens/settings/setting_profile.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/screens/settings/setting_profile.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/shared/bloc/gdts_bloc/gdts_cubit.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/shared/bloc/gdts_bloc/gdts_cubit.dart" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/lib/shared/bloc/gdts_bloc/gdts_state.dart" beforeDir="false" afterPath="$PROJECT_DIR$/lib/shared/bloc/gdts_bloc/gdts_state.dart" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pubspec.yaml" beforeDir="false" afterPath="$PROJECT_DIR$/pubspec.yaml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -59,7 +43,7 @@
     <property name="cidr.known.project.marker" value="true" />
     <property name="dart.analysis.tool.window.visible" value="false" />
     <property name="io.flutter.reload.alreadyRun" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../shopv1" />
     <property name="settings.editor.selected.configurable" value="AndroidSdkUpdater" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
